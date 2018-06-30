@@ -9,7 +9,7 @@ import Footer from './components/footer';
 
 const characters = ['image1', 'image2', 'image3', 'image4', 'image5', 'image6', 'image7', 'image8', 'image9', 'image10', 'image11', 'image12', 'image13', 'image14', 'image15', 'image16'];
 
-const colors = ['red', 'pink', 'purple', 'deep-purple', 'indigo', 'blue', 'light-blue', 'cyan', 'teal', 'green', 'light-green', 'lime', 'teal', 'green', 'light-green', 'lime'];
+const colors = ['red', 'pink', 'purple', 'deep-purple', 'indigo', 'blue', 'light-blue', 'cyan', 'teal', 'green', 'light-green', 'lime', 'red', 'pink', 'purple', 'deep-purple'];
 
 class App extends Component {
 	constructor(props) {

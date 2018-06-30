@@ -24,7 +24,7 @@ const Footer = () => {
 						<h5 className='white-text'>GitHub</h5>
 						<div className='row'>
 							<div className='col s12'>
-								<iframe title='Follow' src='https://ghbtns.com/github-btn.html?user=abemco&type=follow&count=true&size=large' frameBorder='0' scrolling='0' width='223px' height='30px'></iframe>
+								<iframe title='Follow' src='https://ghbtns.com/github-btn.html?user=JoseAraujoBH&type=follow&count=true&size=large' frameBorder='0' scrolling='0' width='223px' height='30px'></iframe>
 							</div>
 						</div>
 					</div>
